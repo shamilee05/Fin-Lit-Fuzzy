@@ -1,1 +1,1 @@
-
+This is one of the modules from our Final Year Engineering project - FinLit (Financial Literacy quiz app). This module employs Fuzzy Logic to predict what level of difficulty to post next to the user based off their current performance in the quiz.
